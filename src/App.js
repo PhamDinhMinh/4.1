@@ -212,6 +212,7 @@ export default function App() {
       <div className="Finish">
           {Show(m,n) && <Appear />}
       </div>
+      <></>
     </div>
   );
 }
